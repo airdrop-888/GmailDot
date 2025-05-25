@@ -18,8 +18,8 @@ Script ini digunakan untuk menghasilkan variasi alamat email Gmail dengan menamb
 
 1. **Clone repository ini**
 ```sh
-git clone https://github.com/yourusername/gmail-dot-generator.git
-cd gmail-dot-generator
+git clone https://github.com/airdrop-888/GmailDot.git
+cd GmailDot
 ```
 
 ---
